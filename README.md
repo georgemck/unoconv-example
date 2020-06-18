@@ -6,3 +6,4 @@
 
 # Node support from https://github.com/HAASLEWER/unoconv2 fork from https://github.com/unoconv/unoconv (defined in the package.json)
 
+Be sure to install the dependencies!
